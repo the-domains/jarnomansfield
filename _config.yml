@@ -1,0 +1,14 @@
+layout_spectrum: 0.4460914
+color:
+  saturation: 0.9092373
+  lightness: 0.5548977
+  brandStrength: 0.2658432
+  brandColors:
+    - '#BCBCBC'
+    - '#070707'
+    - '#5C5C5C'
+    - '#282828'
+    - '#888888'
+  rhythmicContrast: 0.3818474
+typography_spectrum: 0.9852251
+name: 'Jarnomansfield '
