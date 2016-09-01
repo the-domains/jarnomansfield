@@ -1,4 +1,4 @@
-layout_spectrum: 0.4460914
+typography_spectrum: 0.9852251
 color:
   saturation: 0.9092373
   lightness: 0.5548977
@@ -10,5 +10,6 @@ color:
     - '#282828'
     - '#888888'
   rhythmicContrast: 0.3818474
-typography_spectrum: 0.9852251
+layout_spectrum: 0.4460914
 name: 'Jarnomansfield '
+title: Personal Page
