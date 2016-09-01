@@ -12,5 +12,9 @@ color:
   rhythmicContrast: 0.3818474
 layout_spectrum: 0.4460914
 name: 'Jarnomansfield '
+navigation:
+  - name: Instagram
+    url: 'https://www.instagram.com/jarnomansfield/?hl=en'
+    type: external
 title: Personal Page
 description: Stuffs and stuff
